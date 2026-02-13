@@ -2,6 +2,8 @@
 
 A pure Python implementation of the Iterative Closest Point algorithm with real-time 3D visualization.
 
+**[▶ Live version](https://stacktoprod.com/ICP)**
+
 ![ICP Demo](icp_readme.gif)
 
 ## How It Works
